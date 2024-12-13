@@ -11,7 +11,7 @@
 - 💞️ I’m looking to collaborate on innovative web projects or open-source initiatives.
 - 📫 How to reach me: [dionvkaze120@gmail.com](mailto:dionvkaze120@gmail.com)
 - 😄 Pronouns: He/Him
-- 📚 Fun fact: I’m passionate about exploring new worlds through books.
+- 📚 Fun fact:I love reading my books in my free time
 
 ---
 
