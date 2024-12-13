@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Diogo da Silva Moreira
+# 👋 Hi, I’m **Diogo da Silva Moreira**
 
 🎓 **Computer Science student** at UNIFAL-MG  
 💻 **Web Developer** | HTML, CSS, JavaScript, C++, Python  
@@ -11,13 +11,13 @@
 - 💞️ I’m looking to collaborate on innovative web projects or open-source initiatives.
 - 📫 How to reach me: [dionvkaze120@gmail.com](mailto:dionvkaze120@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy solving coding puzzles and building game mechanics in Unity.
+- 📚 Fun fact: I’m passionate about exploring new worlds through books.
 
 ---
 
 ## My Skills
 - **Frontend:** ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- **Backend:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+- **Backend:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 - **Database:** ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 - **Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
