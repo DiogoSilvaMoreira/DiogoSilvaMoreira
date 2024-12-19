@@ -34,11 +34,6 @@ A 2D adventure game featuring custom character designs and interactive maps.
 
 ---
 
-## Connect with Me
-- **LinkedIn**: [Diogo da Silva Moreira](#)  
-- **GitHub**: [DiogoSilvaMoreira](https://github.com/DiogoSilvaMoreira)  
-- **Instagram**: [@diogo_moreirak](https://instagram.com/diogo_moreirak)  
-
 ---
 
 ## GitHub Stats
@@ -47,8 +42,16 @@ A 2D adventure game featuring custom character designs and interactive maps.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoSilvaMoreira&layout=compact&langs_count=8&bg_color=0d1117&text_color=434d58&title_color=2f80ed&hide_border=true)
 
 ---
+## Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/diogo-da-silva-moreira" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/DiogoSilvaMoreira" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://instagram.com/diogo_moreirak" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
-## Featured Projects
-[![BlueVelvet Music Store](https://github-readme-stats.vercel.app/api/pin/?username=DiogoSilvaMoreira&repo=BlueVelvet-Music-Store&bg_color=0d1117&title_color=2f80ed&text_color=434d58&hide_border=true)](https://github.com/DiogoSilvaMoreira/BlueVelvet-Music-Store)
-
-[![Unity Game Development](https://github-readme-stats.vercel.app/api/pin/?username=DiogoSilvaMoreira&repo=Unity-Game-Adventure&bg_color=0d1117&title_color=2f80ed&text_color=434d58&hide_border=true)](https://github.com/DiogoSilvaMoreira/Unity-Game-Adventure)
