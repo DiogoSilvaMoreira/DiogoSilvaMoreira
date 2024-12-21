@@ -5,7 +5,6 @@
 ---
 <img src="https://raw.githubusercontent.com/DiogoSilvaMoreira/DiogoSilvaMoreira/output/snake.svg" alt="Snake animation" />
 
-###
 ---
 
 ## GitHub Stats
