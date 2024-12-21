@@ -1,8 +1,7 @@
-# Diogo da Silva Moreira
+# Diogo da Silva Moreira  
 
 💻🎓 **Computer Science student** at **UNIFAL-MG**  
 
----
 <img src="https://raw.githubusercontent.com/DiogoSilvaMoreira/DiogoSilvaMoreira/output/snake.svg" alt="Snake animation" />
 
 ---
@@ -56,7 +55,3 @@
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
-
-<img src="https://raw.githubusercontent.com/DiogoSilvaMoreira/DiogoSilvaMoreira/output/snake.svg" alt="Snake animation" />
-
-###
