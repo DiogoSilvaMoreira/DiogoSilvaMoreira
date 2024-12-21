@@ -3,6 +3,10 @@
 💻🎓 **Computer Science student** at **UNIFAL-MG**  
 
 ---
+<img src="https://raw.githubusercontent.com/DiogoSilvaMoreira/DiogoSilvaMoreira/output/snake.svg" alt="Snake animation" />
+
+###
+---
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiogoSilvaMoreira&show_icons=true&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&bg_color=0d1117&hide_border=true&custom_title=Diogo's%20GitHub%20Stats)
