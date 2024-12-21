@@ -6,6 +6,10 @@
 
 ---
 
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/DiogoSilvaMoreira/DiogoSilvaMoreira/main/github.gif" />
+</div>
+
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiogoSilvaMoreira&show_icons=true&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&bg_color=0d1117&hide_border=true&custom_title=Diogo's%20GitHub%20Stats)
 
@@ -55,6 +59,3 @@
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
-<div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/DiogoSilvaMoreira/DiogoSilvaMoreira/main/github.gif" />
-</div>
