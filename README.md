@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <img height="400" src="[https://raw.githubusercontent.com/DiogoSilvaMoreira/DiogoSilvaMoreira/main/github.gif](https://github.com/DiogoSilvaMoreira/DiogoSilvaMoreira/blob/main/Pixel%20Study%20GIF%20-%20Pixel%20Study%20-%20Descubre%20y%20comparte%20GIF.gif)" />
+  <img height="400" src="https://github.com/DiogoSilvaMoreira/DiogoSilvaMoreira/blob/main/study.gif" />
 </div>
 
 ## GitHub Stats
