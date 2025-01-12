@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <img height="400" src="https://github.com/DiogoSilvaMoreira/DiogoSilvaMoreira/blob/main/github.gif" />
+  <img height="400" src="https://github.com/DiogoSilvaMoreira/DiogoSilvaMoreira/blob/main/train.gif" />
 </div>
 
 ## GitHub Stats
